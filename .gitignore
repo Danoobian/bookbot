@@ -1,0 +1,5 @@
+# local books
+/books
+
+# env
+/__pycache__
